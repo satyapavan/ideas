@@ -36,6 +36,7 @@ Translate Engish into Morse code and geterate music based on it; Plug in data st
 
 ## sudoku
 A SuDoKu implementation
+https://github.com/neeru1207/AI_Sudoku
 
 ## bulletin-board
 Bulletin Boards created with Slack in mind by using Socket.io and type script
