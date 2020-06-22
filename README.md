@@ -33,6 +33,10 @@ http://marcgg.com/blog/2016/11/01/javascript-audio/
 
 ## morse-music
 Translate Engish into Morse code and geterate music based on it; Plug in data stream and we have a music generator :)
+- Generates random images https://picsum.photos/1200 
+- Random phrases - https://randomwordgenerator.com/json/phrases.json
+- Random sentences - https://randomwordgenerator.com/json/sentences.json
+- Whats wrong with TITTER FEED?
 
 ## sudoku
 A SuDoKu implementation
