@@ -13,6 +13,7 @@ Save the list of ideas here rather than empty repos
 1. [email-tracker](#email-tracker)
 1. [Nemean-web-browser](#Nemean-web-browser)
 1. [sql-injection-detection](#sql-injection-detection)
+1. [memory-tiles](#memory-tiles)
 
 ## TVM (Time Value of Money)
 Given an outstanding loan amount, an EMI and current ROI - This tool will forcast when the debt will be cleared
@@ -44,6 +45,9 @@ https://github.com/neeru1207/AI_Sudoku
 
 ## bulletin-board
 Bulletin Boards created with Slack in mind by using Socket.io and type script
+
+## memory-tiles
+A memory tiles game implementation using objects/classes
 
 Planning to create a posting app which can be access across teams and can be used as an alternative to emails
 
