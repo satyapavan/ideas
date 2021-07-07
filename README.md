@@ -2,7 +2,8 @@
 Save the list of ideas here rather than empty repos 
 
 ## Table of Contents
-1. [TVM \(Time Value of Money\)](#TVM-\(Time-Value-of-Money\))
+1. [MovieDB++](#moviedb)
+1. [TVM - Time Value of Money](#TVM)
 1. [email-metrics](#email-metrics)
 1. [static-generator](#static-generator)
 1. [twitter-foot-print](#twitter-foot-print)
@@ -15,7 +16,18 @@ Save the list of ideas here rather than empty repos
 1. [sql-injection-detection](#sql-injection-detection)
 1. [memory-tiles](#memory-tiles)
 
-## TVM (Time Value of Money)
+## moviedb
+Did you ever had trouble remembering the name of a movie that you watched? I do.
+Did you ever caught a liking for a movie that you started watching mid way but don't know the name of it? And you don't know the lead actors name too. But you do know one supporting case and remember the name of the movie you saw him in. I find this fix often.
+
+So i start by back tracking from there to track the name of the current movie that i am watching.
+
+I aim to make this whole process more seamless than the way imdb does.
+
+  - https://www.themoviedb.org/
+  - https://vercel.com/solutions/nextjs
+
+## TVM
 Given an outstanding loan amount, an EMI and current ROI - This tool will forcast when the debt will be cleared
 
 ## email-metrics
