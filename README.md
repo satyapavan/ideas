@@ -24,6 +24,7 @@ So i start by back tracking from there to track the name of the current movie th
 
 I aim to make this whole process more seamless than the way imdb does.
 
+  - Divided between making use of mongo based document vs neo4j datadb for better representation
   - https://www.themoviedb.org/
   - https://vercel.com/solutions/nextjs
 
